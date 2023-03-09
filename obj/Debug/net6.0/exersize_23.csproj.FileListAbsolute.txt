@@ -1,0 +1,15 @@
+C:\Users\GN\Desktop\ubn\exersize_23\obj\Debug\net6.0\exersize_23.csproj.AssemblyReference.cache
+C:\Users\GN\Desktop\ubn\exersize_23\obj\Debug\net6.0\exersize_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GN\Desktop\ubn\exersize_23\obj\Debug\net6.0\exersize_23.AssemblyInfoInputs.cache
+C:\Users\GN\Desktop\ubn\exersize_23\obj\Debug\net6.0\exersize_23.AssemblyInfo.cs
+C:\Users\GN\Desktop\ubn\exersize_23\obj\Debug\net6.0\exersize_23.csproj.CoreCompileInputs.cache
+C:\Users\GN\Desktop\ubn\exersize_23\bin\Debug\net6.0\exersize_23.exe
+C:\Users\GN\Desktop\ubn\exersize_23\bin\Debug\net6.0\exersize_23.deps.json
+C:\Users\GN\Desktop\ubn\exersize_23\bin\Debug\net6.0\exersize_23.runtimeconfig.json
+C:\Users\GN\Desktop\ubn\exersize_23\bin\Debug\net6.0\exersize_23.dll
+C:\Users\GN\Desktop\ubn\exersize_23\bin\Debug\net6.0\exersize_23.pdb
+C:\Users\GN\Desktop\ubn\exersize_23\obj\Debug\net6.0\exersize_23.dll
+C:\Users\GN\Desktop\ubn\exersize_23\obj\Debug\net6.0\refint\exersize_23.dll
+C:\Users\GN\Desktop\ubn\exersize_23\obj\Debug\net6.0\exersize_23.pdb
+C:\Users\GN\Desktop\ubn\exersize_23\obj\Debug\net6.0\exersize_23.genruntimeconfig.cache
+C:\Users\GN\Desktop\ubn\exersize_23\obj\Debug\net6.0\ref\exersize_23.dll
